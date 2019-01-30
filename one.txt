@@ -1,0 +1,7 @@
+
+Automatic Log Out Due to Inactivity
+
+You are now logged out of your account.
+
+We have not heard from you for about 30 minute(s), so for your security, Cloudera Manager automatically logged you out of your account. Log back in below to continue. 
+
